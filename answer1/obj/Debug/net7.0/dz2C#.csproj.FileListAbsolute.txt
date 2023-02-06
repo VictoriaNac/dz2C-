@@ -1,0 +1,15 @@
+C:\Users\79697\Desktop\Пайтон\dz2C#\bin\Debug\net7.0\dz2C#.exe
+C:\Users\79697\Desktop\Пайтон\dz2C#\bin\Debug\net7.0\dz2C#.deps.json
+C:\Users\79697\Desktop\Пайтон\dz2C#\bin\Debug\net7.0\dz2C#.runtimeconfig.json
+C:\Users\79697\Desktop\Пайтон\dz2C#\bin\Debug\net7.0\dz2C#.dll
+C:\Users\79697\Desktop\Пайтон\dz2C#\bin\Debug\net7.0\dz2C#.pdb
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.csproj.AssemblyReference.cache
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.AssemblyInfoInputs.cache
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.AssemblyInfo.cs
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.csproj.CoreCompileInputs.cache
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.dll
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\refint\dz2C#.dll
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.pdb
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\dz2C#.genruntimeconfig.cache
+C:\Users\79697\Desktop\Пайтон\dz2C#\obj\Debug\net7.0\ref\dz2C#.dll
